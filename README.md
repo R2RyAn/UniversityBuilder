@@ -3,7 +3,7 @@
 <img align = Right width="65%" alt="image" src="https://github.com/R2RyAn/AddMeImages/blob/main/Univeristy%20Builder/UB_Home.png">
 
 
-## Contributors 🤝
+## Contributor 🤝
 * [R2RyAn](https://github.com/R2RyAn)
 
 ## Tools 🔨
