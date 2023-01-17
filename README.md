@@ -1,4 +1,4 @@
-# University Builder 
+# University Builder 🎓
 
 <img align = Right width="65%" alt="image" src="https://github.com/R2RyAn/AddMeImages/blob/main/Univeristy%20Builder/UB_Home.png">
 
