@@ -1,4 +1,4 @@
-# University Builder <img width = 32 src ="https://user-images.githubusercontent.com/73625971/212537810-fc7a4278-6efb-4f11-9612-576b3d5ac616.svg">
+# University Builder 
 
 <img align = Right width="65%" alt="image" src="https://github.com/R2RyAn/AddMeImages/blob/main/Univeristy%20Builder/UB_Home.png">
 
