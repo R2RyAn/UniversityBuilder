@@ -24,9 +24,8 @@ In the future, I would like to implement the dropout and retire student function
 
 ## Future improvments 🪄
 * More information to display on the Member About Page.
-* More secure database implementation 
-* User logins
-* Mobile implementation 
+* User logins.
+* Mobile implementation. 
 
 <br></br>
 
